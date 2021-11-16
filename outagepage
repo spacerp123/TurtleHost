@@ -1,0 +1,11 @@
+               <!-- Outage-->
+            <section class="page-section bg-light" id="clientpanel">
+                <div class="container">
+                    <div class="text-center">
+                        <h2 class="section-heading text-uppercase">UNEXPECTED SERVER OUTAGES</h2>
+                        <p class="section-subheading text-muted">We're currently experiencing an Unexpected Server Outage. <br>We will keep you updated here and on our status page below.<br> <br>UPDATE: 16/11/21 @ 8:30PM AEST <br>We've located the cause of the outage and are working on a fix now.</p>
+                        <a class="btnorange btn-primaryorange btn-xl text-uppercase" href="#services">VIEW STATUS</a>
+                    </div>
+
+                </div>
+            </section>
